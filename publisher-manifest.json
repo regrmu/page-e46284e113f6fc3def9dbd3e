@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d55be726a31c57be7521855a",
+  "owner": "regrmu",
+  "repo": "page-e46284e113f6fc3def9dbd3e",
+  "title": "CrossX",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e46284e113f6fc3def9dbd3e",
+      "a": "CrossX",
+      "b": "稳定全球clash加速器",
+      "entity": "CrossX",
+      "brand": "CrossX",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d550de2e9969db2e732766431d6fc9a355bd8ce7526db0a4382ce49bed9a24b9",
+      "content": {
+        "primary_entity": "CrossX",
+        "keyword1": "CrossX",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，查看订阅导入说明。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，完成订阅配置即可使用。",
+          "AI_CLOSING_TITLE": "选好套餐即刻开始",
+          "AI_DESCRIPTION": "，围绕设备数量、流量额度与订阅周期提供三档方案，支持常见客户端配置，适合跨境办公、流媒体与游戏加速场景。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与线路类型三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合个人轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "个人入门",
+          "AI_FEATURE_TITLE_2": "进阶多设备",
+          "AI_FEATURE_TITLE_3": "团队协作",
+          "AI_GUIDE_INTRO": "选择套餐、确认设备适配、按客户端文档导入订阅三步完成。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "CrossX 提供多档流量与设备数量的订阅方案，覆盖基础流媒体、IPLC 游戏专线与团队高带宽节点，适配常见客户端导入使用。",
+          "AI_HERO_SUBTITLE": "多设备多场景加速选择",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数划分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备同时在线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；按年付分别为 ¥150、¥350、¥850，流量与设备数依次递增。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，对照三档套餐功能选择合适版本。",
+          "AI_STEP_TEXT_2": "确认常用设备系统是否有对应客户端，并查看导入订阅的说明。",
+          "AI_STEP_TEXT_3": "在客户端中按照文档粘贴订阅链接或导入配置，完成节点加载。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "CrossX 加速方案",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。流量需求大或设备多，建议选旗舰版或团队版。",
+          "AI_FAQ_ANSWER_2": "可以直接转换。月付转年付需在客户端页面选择年度方案重新下单，原剩余天数通常按比例折算或联系支持处理。",
+          "AI_FAQ_ANSWER_3": "Windows 推荐 Clash Verge，macOS 推荐 ClashX Pro，iOS 推荐 Shadowrocket，Android 推荐 Clash Meta。导入订阅链接后即可使用。",
+          "AI_FAQ_ANSWER_4": "套餐费用已包含节点使用，没有额外隐藏收费。流量超出当月额度后，可升级套餐或等待下月重置。",
+          "AI_FAQ_ANSWER_5": "在个人中心找到订阅地址，复制到客户端配置栏保存并更新即可。若导入失败，检查网络或更换客户端版本。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐在流量和设备数量上有什么区别？",
+          "AI_FAQ_QUESTION_2": "月付方案可以转换成年度方案吗？",
+          "AI_FAQ_QUESTION_3": "不同设备分别使用哪个客户端？",
+          "AI_FAQ_QUESTION_4": "套餐价格是否包含全部节点使用费用？",
+          "AI_FAQ_QUESTION_5": "订阅配置如何导入客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bmgxk.cn",
+    "host": "bmgxk.cn"
+  },
+  "file_hashes": {
+    "index.html": "44c953a4c770bee8a134c905537bafc49e9ef5739ba4269dcf4f95884c5e57a3",
+    "sitemap.xml": "138cfd9dbbcdb3e67e759fe589ca7b9f924a74b32bd68e109acaee3dd9e509f7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cdb1d66e0ef92e391fa9314f9f83b4ac026932bf94a665bcab43c36f6e809340",
+    "robots.txt": "ae81fa463a0dc1e95661217c1b41d62672e84f42fb42543d9bcdda71512d66d5",
+    "9a8c0b327ca1edba3606a4536afbf6fe.txt": "816287e8822018d41abc71785ef2a3485e5cec4ad8e5b7d8d48a9629836b9ba9"
+  },
+  "revision": "df5ac791decbf3d500dcc3a1f1e5b843df9ff1cc0d72bbbe3e85e8867178bb9d"
+}
